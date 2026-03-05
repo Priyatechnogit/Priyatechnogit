@@ -1,24 +1,50 @@
 # Welcome to my GITHUB Profile!
 
-Hi I'm Priya. I'm an aspiring **frontend** developer, based in Munich, focusing on Reactand modern Javascript.
-I love building clean ,acessible UIs and I'm currently deepening my skills in the ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) anad German(B2+).
-When I'm not coding, you'll probably find me watching series or exploring new places aroung Germany.
 
-##👨‍💻About Me
+Hi! I'm **Priya**, an aspiring **Frontend Developer** based in **Munich, Germany 🇩🇪**.
 
-Currently learning
+💻 I enjoy building **clean, responsive, and accessible user interfaces** using **React and modern JavaScript**.
 
-🌱 Currently Learning
+🌱 I'm currently expanding my skills in the **MERN Stack** and improving my **German (B2+)** for tech opportunities in Germany.
 
-⚛️ React
+✨ Outside coding, I enjoy:
 
-📘 TypeScript
+* 🎬 Watching series
+* 🌍 Exploring new places around Germany
 
-🍃 MERN Stack (MongoDB, Express, React, Node.js)
+---
+# 🛠 Tech Stack
 
--  Improving my German for tech jobs in Germany 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,mongodb,git,github,vscode" />
+
+</p>
+
+---
+# 🌱 Currently Learning
+
+* ⚛️ React
+* 📘 TypeScript
+* 🍃 MERN Stack (MongoDB, Express, React, Node.js)
+*  ![German](https://img.shields.io/badge/German-B2+-red?style=for-the-badge&logo=googletranslate&logoColor=white)Improving my German for tech jobs in Germany 
+
+---
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+**To be Pro⭐ in coding Keep learning and Keep Implementing what you have learnt.**
+
+---
+
+
 
