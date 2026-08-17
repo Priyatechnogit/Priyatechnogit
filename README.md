@@ -1,50 +1,40 @@
-# Welcome to my GITHUB Profile!
+# Hi, I'm Priya 👋
 
+**Frontend-Focused Full-Stack Developer** based in Munich, Germany 🇩🇪
 
-Hi! I'm **Priya**, an aspiring **Frontend Developer** based in **Munich, Germany 🇩🇪**.
-
-💻 I enjoy building **clean, responsive, and accessible user interfaces** using **React and modern JavaScript**.
-
-🌱 I'm currently expanding my skills in the **MERN Stack** and improving my **German (B2+)** for tech opportunities in Germany.
-
-✨ Outside coding, I enjoy:
-
-* 🎬 Watching series
-* 🌍 Exploring new places around Germany
+I build with **React, TypeScript, Next.js, and Node.js** — recently completed neue fische's Web Development & AI Program, working AI-native: directing coding agents, then reviewing and hardening what they produce.
 
 ---
-# 🛠 Tech Stack
+
+## 🚀 Featured project
+
+**[Tentify](https://tentify.vercel.app)** — a full-stack Oktoberfest tent reservation app (Next.js, MongoDB Atlas, NextAuth.js). My capstone project, selected by neue fische for a promotional case-study video.
+
+📄 **[Portfolio](https://priya-portfolio-tawny-two.vercel.app)** — full write-up of my projects and how I work with AI tools.
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,mongodb,git,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,git,github,vscode" />
 </p>
 
 ---
-# 🌱 Currently Learning
 
-* ⚛️ React
-* 📘 TypeScript
-* 🍃 MERN Stack (MongoDB, Express, React, Node.js)
-*  ![German](https://img.shields.io/badge/German-B2+-red?style=for-the-badge&logo=googletranslate&logoColor=white)Improving my German for tech jobs in Germany 
+## 💼 Background
+
+3+ years of frontend development experience, including customer-facing banking applications, plus earlier experience in Oracle database development. German: telc B1 / B2-Beruf certified. Based in Munich, available immediately.
 
 ---
-# 🌐 Connect With Me
+
+## 🌐 Connect
 
 <p align="center">
-
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/priya-pk">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-
+<a href="mailto:pitlapriya4u@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
-
----
-
-**To be Pro⭐ in coding Keep learning and Keep Implementing what you have learnt.**
-
----
-
-
-
